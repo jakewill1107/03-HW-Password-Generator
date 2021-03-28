@@ -8,13 +8,13 @@
 * [Questions](#questions)
 ## Description 
 This a password generator application built using javascript. The user selects certain input choices to create a random password. 
-![screenshot image of password generator](/Password-Generator-Screenshot.png)
+![screenshot image of password generator](assets/Password-Generator-Screenshot.PNG)
 ## Technologies
 * HTML
 * CSS
 * Javascript
 ## Demonstration
-![screenshot image of password generator](/Password-Generator-Screenshot.gif)
+![screenshot image of password generator](assets/Password-Generator-Screenshot.gif)
 ## Instructions
 The user clicks the 'generate password button.' The user selects the numeric length of the desired password. The user decides if the password will contain numbers, lowercase letters, uppercase letters and special characters. Once the user has confirmed all password choices, a randomly generated password is created and placed in the document. 
 ### About Us
